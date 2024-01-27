@@ -1,4 +1,4 @@
-# Fullstack Discord Clone: Next.js 13, React, Typescript,  Socket.io, Prisma, Tailwind, Shadcn, MySQL
+# Fullstack Discord Clone: Next.js 13, React, Typescript,  Socket.io, Prisma, Tailwind, Shadcn, Postgresql
 
 ![263422931-14e25e4f-eb83-44dd-8b97-4f2666b89386](https://github.com/konarksharma2001/discord-clone/assets/87274294/4d55db44-a137-40cd-b2ab-442caad3b1c5)
 
