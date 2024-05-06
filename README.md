@@ -22,5 +22,11 @@
 * MySQL database using Planetscale
 * Authentication with Clerk
 
+## Entity Relationship Diagram
+![Discord ER Table](https://github.com/konarksharma2001/discord-clone/assets/87274294/a1430fb3-f3c5-48c7-bf85-9979f013feb1)
+
+
+
+
 ## Link to Discord Clone App
 https://discord-clone-8b4o.onrender.com/
